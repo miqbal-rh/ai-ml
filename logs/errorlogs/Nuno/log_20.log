@@ -1,0 +1,23 @@
+2025-02-14 17:10:41 [INFO] File saved: Main.java
+2025-02-14 17:10:41 [ERROR] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [DEBUG] Connection to database established
+2025-02-14 17:10:41 [INFO] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [WARNING] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [DEBUG] Security Alert: Unauthorized access attempt detected
+2025-02-14 17:10:41 [WARNING] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [DEBUG] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [WARNING] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [ERROR] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [WARNING] Unhandled exception caught in main event loop
+2025-02-14 17:10:41 [WARNING] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [INFO] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [DEBUG] Method `calculateSum` executed successfully
+2025-02-14 17:10:41 [ERROR] Exception in thread 'main' java.lang.NullPointerException at MyClass.java:15
+2025-02-14 17:10:41 [DEBUG] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [ERROR] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [WARNING] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [DEBUG] Security Alert: Unauthorized access attempt detected
+2025-02-14 17:10:41 [WARNING] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [WARNING] Retrying network request after failure...
+2025-02-14 17:10:41 [INFO] Build completed successfully with 2 warnings
+2025-02-14 17:10:41 [DEBUG] Security Alert: Unauthorized access attempt detected

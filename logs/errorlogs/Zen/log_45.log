@@ -1,0 +1,28 @@
+2025-02-14 17:10:41 [WARNING] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [INFO] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [DEBUG] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [DEBUG] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [ERROR] Low memory warning: Heap usage at 85%
+2025-02-14 17:10:41 [INFO] Retrying network request after failure...
+2025-02-14 17:10:41 [INFO] ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 5
+2025-02-14 17:10:41 [INFO] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [DEBUG] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [ERROR] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [INFO] Build completed successfully with 2 warnings
+2025-02-14 17:10:41 [INFO] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [ERROR] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [ERROR] Connection to database established
+2025-02-14 17:10:41 [DEBUG] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [ERROR] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [DEBUG] Exception in thread 'main' java.lang.NullPointerException at MyClass.java:15
+2025-02-14 17:10:41 [WARNING] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [WARNING] Warning: Variable 'unusedVar' declared but never used
+2025-02-14 17:10:41 [INFO] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [WARNING] Connection to database established
+2025-02-14 17:10:41 [INFO] File saved: Main.java
+2025-02-14 17:10:41 [ERROR] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [ERROR] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [ERROR] Low memory warning: Heap usage at 85%
+2025-02-14 17:10:41 [INFO] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [ERROR] Security Alert: Unauthorized access attempt detected
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10

@@ -1,0 +1,21 @@
+2025-02-14 17:10:41 [DEBUG] File saved: Main.java
+2025-02-14 17:10:41 [WARNING] Connection to database established
+2025-02-14 17:10:41 [INFO] ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 5
+2025-02-14 17:10:41 [ERROR] Connection to database established
+2025-02-14 17:10:41 [DEBUG] Method `calculateSum` executed successfully
+2025-02-14 17:10:41 [ERROR] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [ERROR] Warning: Variable 'unusedVar' declared but never used
+2025-02-14 17:10:41 [WARNING] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [WARNING] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [ERROR] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [INFO] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [INFO] ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 5
+2025-02-14 17:10:41 [DEBUG] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [DEBUG] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [DEBUG] Unhandled exception caught in main event loop
+2025-02-14 17:10:41 [INFO] Exception in thread 'main' java.lang.NullPointerException at MyClass.java:15
+2025-02-14 17:10:41 [WARNING] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [INFO] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [WARNING] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [ERROR] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [INFO] Method `calculateSum` executed successfully

@@ -1,0 +1,40 @@
+2025-02-14 17:10:41 [ERROR] File saved: Main.java
+2025-02-14 17:10:41 [WARNING] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [ERROR] File saved: Main.java
+2025-02-14 17:10:41 [DEBUG] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [DEBUG] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [WARNING] Method `calculateSum` executed successfully
+2025-02-14 17:10:41 [ERROR] Security Alert: Unauthorized access attempt detected
+2025-02-14 17:10:41 [WARNING] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [WARNING] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [WARNING] Method `calculateSum` executed successfully
+2025-02-14 17:10:41 [ERROR] Low memory warning: Heap usage at 85%
+2025-02-14 17:10:41 [INFO] Connection to database established
+2025-02-14 17:10:41 [WARNING] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [ERROR] Retrying network request after failure...
+2025-02-14 17:10:41 [DEBUG] File saved: Main.java
+2025-02-14 17:10:41 [ERROR] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [INFO] Method `calculateSum` executed successfully
+2025-02-14 17:10:41 [INFO] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [DEBUG] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [ERROR] Warning: Variable 'unusedVar' declared but never used
+2025-02-14 17:10:41 [DEBUG] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [DEBUG] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [INFO] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [INFO] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [WARNING] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [ERROR] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [ERROR] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [INFO] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [WARNING] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [INFO] Connection to database established
+2025-02-14 17:10:41 [INFO] Build completed successfully with 2 warnings
+2025-02-14 17:10:41 [DEBUG] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [WARNING] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [INFO] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [INFO] Connection to database established
+2025-02-14 17:10:41 [WARNING] Exception in thread 'main' java.lang.NullPointerException at MyClass.java:15
+2025-02-14 17:10:41 [ERROR] File saved: Main.java
+2025-02-14 17:10:41 [INFO] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [INFO] Compilation started for project MyJavaApp

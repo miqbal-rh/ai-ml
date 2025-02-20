@@ -1,0 +1,23 @@
+2025-02-14 17:10:41 [DEBUG] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [INFO] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [DEBUG] Build completed successfully with 2 warnings
+2025-02-14 17:10:41 [ERROR] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [DEBUG] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [ERROR] File saved: Main.java
+2025-02-14 17:10:41 [DEBUG] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [ERROR] Retrying network request after failure...
+2025-02-14 17:10:41 [INFO] Exception in thread 'main' java.lang.NullPointerException at MyClass.java:15
+2025-02-14 17:10:41 [DEBUG] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [INFO] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [ERROR] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [DEBUG] Connection to database established
+2025-02-14 17:10:41 [ERROR] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [WARNING] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [INFO] Security Alert: Unauthorized access attempt detected
+2025-02-14 17:10:41 [ERROR] Method `calculateSum` executed successfully
+2025-02-14 17:10:41 [ERROR] Retrying network request after failure...
+2025-02-14 17:10:41 [ERROR] Connection to database established
+2025-02-14 17:10:41 [WARNING] File saved: Main.java
+2025-02-14 17:10:41 [ERROR] ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 5
+2025-02-14 17:10:41 [DEBUG] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [INFO] Server responded with 500 Internal Server Error

@@ -1,0 +1,33 @@
+2025-02-14 17:10:41 [INFO] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [WARNING] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [WARNING] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [DEBUG] Retrying network request after failure...
+2025-02-14 17:10:41 [ERROR] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [WARNING] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [DEBUG] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [DEBUG] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [INFO] Retrying network request after failure...
+2025-02-14 17:10:41 [ERROR] File saved: Main.java
+2025-02-14 17:10:41 [DEBUG] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [DEBUG] Build completed successfully with 2 warnings
+2025-02-14 17:10:41 [INFO] Low memory warning: Heap usage at 85%
+2025-02-14 17:10:41 [ERROR] Warning: Variable 'unusedVar' declared but never used
+2025-02-14 17:10:41 [INFO] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [INFO] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [ERROR] Build completed successfully with 2 warnings
+2025-02-14 17:10:41 [ERROR] Connection to database established
+2025-02-14 17:10:41 [INFO] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [INFO] Security Alert: Unauthorized access attempt detected
+2025-02-14 17:10:41 [DEBUG] Connection to database established
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [DEBUG] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [ERROR] Retrying network request after failure...
+2025-02-14 17:10:41 [INFO] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [ERROR] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [DEBUG] Security Alert: Unauthorized access attempt detected
+2025-02-14 17:10:41 [WARNING] Warning: Variable 'unusedVar' declared but never used
+2025-02-14 17:10:41 [INFO] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [WARNING] Syntax error: missing ';' at line 12 in Parser.java
+2025-02-14 17:10:41 [DEBUG] Server responded with 500 Internal Server Error

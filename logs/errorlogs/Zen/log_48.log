@@ -1,0 +1,39 @@
+2025-02-14 17:10:41 [ERROR] Retrying network request after failure...
+2025-02-14 17:10:41 [WARNING] Retrying network request after failure...
+2025-02-14 17:10:41 [INFO] Retrying network request after failure...
+2025-02-14 17:10:41 [INFO] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [INFO] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [WARNING] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [ERROR] Build completed successfully with 2 warnings
+2025-02-14 17:10:41 [INFO] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [WARNING] Connection to database established
+2025-02-14 17:10:41 [DEBUG] ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 5
+2025-02-14 17:10:41 [WARNING] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [INFO] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [INFO] ClassNotFoundException: com.example.NonExistentClass
+2025-02-14 17:10:41 [ERROR] Exception in thread 'main' java.lang.NullPointerException at MyClass.java:15
+2025-02-14 17:10:41 [INFO] Warning: Variable 'unusedVar' declared but never used
+2025-02-14 17:10:41 [ERROR] ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 5
+2025-02-14 17:10:41 [WARNING] Connection to database established
+2025-02-14 17:10:41 [WARNING] Retrying network request after failure...
+2025-02-14 17:10:41 [WARNING] Exception in thread 'main' java.lang.NullPointerException at MyClass.java:15
+2025-02-14 17:10:41 [ERROR] Compilation started for project MyJavaApp
+2025-02-14 17:10:41 [INFO] ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 5
+2025-02-14 17:10:41 [DEBUG] Server responded with 500 Internal Server Error
+2025-02-14 17:10:41 [WARNING] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [DEBUG] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [INFO] Unhandled exception caught in main event loop
+2025-02-14 17:10:41 [WARNING] Unable to resolve symbol 'x' in Main.java at line 10
+2025-02-14 17:10:41 [WARNING] Retrying network request after failure...
+2025-02-14 17:10:41 [DEBUG] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [WARNING] Failed to load configuration file: config.properties
+2025-02-14 17:10:41 [DEBUG] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [WARNING] Logger initialized with DEBUG level
+2025-02-14 17:10:41 [WARNING] StackOverflowError: Infinite recursion detected
+2025-02-14 17:10:41 [DEBUG] Garbage collection triggered due to high memory usage
+2025-02-14 17:10:41 [WARNING] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [INFO] Timeout occurred while connecting to API endpoint
+2025-02-14 17:10:41 [INFO] Deprecated API usage detected in Utils.java
+2025-02-14 17:10:41 [ERROR] Unhandled exception caught in main event loop
