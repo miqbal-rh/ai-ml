@@ -67,7 +67,7 @@ Make sure to update the `BASE_DIR` constant in `log_analysis_offline.py` with th
 ### Example 3D Plot
 Here’s an example of what the 3D plot might look like when visualizing the clustered logs:
 
-![3D Plot Example](defect_classification_view.png)
+![3D Plot Example](./defect_classification_view.png)
 
 ## License
 This project is open-source under the MIT License.
